@@ -25,7 +25,8 @@ export default () => (
         <User
             username="Jane Doe"
             avatar="https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg"
-            excerpt="I'm Jane Doe. Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            excerpt="I'm Jane Doe. OH MY GOD THIS IS A CHANGE
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit."
         />
 
         <User
